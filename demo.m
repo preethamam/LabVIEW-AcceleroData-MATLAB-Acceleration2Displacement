@@ -7,7 +7,7 @@
 %//%*                    M.S in Computer Science                           *%
 %//%*                    M.S in Electrical Engineering                     *%
 %//%*                    M.S in Civil Engineering                          *%
-%//%*             USC Email: aghalaya@usc.edu                              *%
+%//%*             Github link: https://github.com/preethamam               %*
 %//%*             Submission Date: --/--/----                              *%
 %//%************************************************************************%
 %//%*             Viterbi School of Engineering,                           *%
